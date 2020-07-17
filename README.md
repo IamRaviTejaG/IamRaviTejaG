@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi there 👋, I'm Ravi Teja Gannavarapu</h1>
+<h1 align="center">Heya 👋</h1>
 <!--<h3 align="center">I often write code with headphones on, occasionally click photographs & play drums. </h3>-->
 
-- 😄 Often: **writes code, listens to music**
-- 🙂 Occasionally: **clicks photographs, plays drums**
-- 🔭 Recently worked with: **BrowserStack**
-- 💬 Knows about: **Python, NodeJS, Ruby-on-Rails, Golang & C++**
-- 📫 Can be reach via: **the handle _IamRaviTejaG_**
+- 😄 I often: **write code, listen to music**
+- 🙂 I occasionally: **click photographs, play drums**
+- 🔭 I recently worked with: **BrowserStack**
+- 💬 I know about: **Python, NodeJS, Ruby-on-Rails, Go & C++**
+- 📫 I can be reached anywhere via: **the handle _IamRaviTejaG_**
 - ⚡ Fun fact: **I spread greenery, one box at a time**
 
 <br />
