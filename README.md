@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Ravi Teja Gannavarapu</h1>
 <!--<h3 align="center">I often write code with headphones on, occasionally click photographs & play drums. </h3>-->
 
-- 🔭 I’ve recently worked with: **BrowserStack**
-- 💬 Ask me about: **Python, NodeJS, Ruby-on-Rails, Golang & C++**
-- 📫 How to reach me: **anywhere with the handle IamRaviTejaG**
+- 😄 Often: **writes code, listens to music**
+- 🙂 Occasionally: **clicks photographs, plays drums**
+- 🔭 Recently worked with: **BrowserStack**
+- 💬 Knows about: **Python, NodeJS, Ruby-on-Rails, Golang & C++**
+- 📫 Can be reach via: **the handle _IamRaviTejaG_**
 - ⚡ Fun fact: **I spread greenery, one box at a time**
-- 😄 Often: **write code, listen to music**
-- 🙂 Occasionally: **click photographs, play drums**
+
 <br /><br />
 <p align="center"><img src=https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg alt=amazonwebservices width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=cplusplus width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/git/git-original.svg alt=git width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg alt=go width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/express/express-original.svg alt=express width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg alt=javascript width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg alt=linux width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-plain.svg alt=mysql width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/rails/rails-plain-wordmark.svg alt=rails width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg alt=redis width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg alt=ruby width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40"/>&nbsp;&nbsp;<img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg alt=python width="40" height="40"/></p>
 
