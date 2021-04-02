@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 😄 I often: **write code, listen to music**
 - 🙂 I occasionally: **click photographs, play drums**
-- 🔭 I recently worked with: **DeepSource ([@deepsourcelabs]()) & BrowserStack ([@browserstack]())**
+- 🔭 I recently worked with: **[@deepsourcelabs](https://github.com/deepsourcelabs) & [@browserstack](https://github.com/browserstack)**
 - 💬 I know about: **Python, NodeJS, Ruby-on-Rails, Go & C++**
 - 📫 I can be reached anywhere via: **the handle _IamRaviTejaG_**
 - ⚡ Fun fact: **I spread greenery, one box at a time**
